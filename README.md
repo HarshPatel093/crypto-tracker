@@ -26,7 +26,7 @@ streamlit run app.py
 
 🌐 Live Demo
 👉 Deployed on Streamlit Cloud:
-
+https://crypto-tracker-ftxatknpgy83lbjcxmqhkn.streamlit.app/
 
 🗂️ Project Structure
 bash
