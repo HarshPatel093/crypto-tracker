@@ -24,25 +24,30 @@ cd crypto-tracker
 pip install -r requirements.txt
 streamlit run app.py
 
-🌐 Live Demo
+---
+
+## 🌐 Live Demo
 👉 Deployed on Streamlit Cloud:
 https://crypto-tracker-ftxatknpgy83lbjcxmqhkn.streamlit.app/
 
-🗂️ Project Structure
-bash
-Copy
-Edit
+---
+
+## 🗂️ Project Structure
+
 crypto-tracker/
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # Required Python libraries
 └── README.md            # Project documentation
 
-📄 requirements.txt
+---
+
+## 📄 requirements.txt
 streamlit
 requests
 pandas
 matplotlib
 
+--- 
 
 🙌 Acknowledgements
 CoinGecko API for free crypto market data
