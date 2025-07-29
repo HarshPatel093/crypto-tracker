@@ -16,15 +16,7 @@ A simple and interactive web application built with [Streamlit](https://streamli
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/crypto-tracker.git
-cd crypto-tracker
-pip install -r requirements.txt
-streamlit run app.py
-
-🌐 Live Demo
+## 🌐 Live Demo
 👉 Deployed on Streamlit Cloud:
 https://crypto-tracker-ftxatknpgy83lbjcxmqhkn.streamlit.app/
 
@@ -38,3 +30,12 @@ crypto-tracker/
 🙌 Acknowledgements
 CoinGecko API for free crypto market data
 Streamlit for making app development super easy
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/crypto-tracker.git
+cd crypto-tracker
+pip install -r requirements.txt
+streamlit run app.py
+
