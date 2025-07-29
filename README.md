@@ -22,10 +22,10 @@ https://crypto-tracker-ftxatknpgy83lbjcxmqhkn.streamlit.app/
 
 ## 🗂️ Project Structure
 crypto-tracker/
-├── app.py               # Main Streamlit app
+├── app.py               
 ├── crypto_api.py
-├── requirements.txt     # Required Python libraries
-└── README.md            # Project documentation
+├── requirements.txt     
+└── README.md       
 
 ## 📦 Installation
 
@@ -34,4 +34,3 @@ git clone https://github.com/yourusername/crypto-tracker.git
 cd crypto-tracker
 pip install -r requirements.txt
 streamlit run app.py
-```bash
